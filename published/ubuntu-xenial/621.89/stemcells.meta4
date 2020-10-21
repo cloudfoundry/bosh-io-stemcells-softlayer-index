@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="light-bosh-stemcell-621.89-softlayer-xen-ubuntu-xenial-go_agent.tgz">
+    <hash type="md5">dca46daeec3536b750b3efd48217c267</hash>
+    <hash type="sha-1">c2340581de651a9f94a6b62df64fd31fd48ffaed</hash>
+    <hash type="sha-256">826947ba0e6e3f568f1a93c2441825eeecfd8d99af2542d83dde4dfa3874b2a2</hash>
+    <hash type="sha-512">03055d1b825b6b10c37f3d75b462a1d0ec5181aa043ddeef289b10b8c8014dc0cc36e9cbd0319afb6a26d0241f5622b8319baf0539581a9fafbe65cd17dc216c</hash>
+    <size>19707</size>
+    <url>https://s3.amazonaws.com/bosh-softlayer-cpi-stemcells/light-bosh-stemcell-621.89-softlayer-xen-ubuntu-xenial-go_agent.tgz</url>
+    <version>621.89</version>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
